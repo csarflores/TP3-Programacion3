@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Varios\TP3 - Programacion 3 - UTN\Ejercicio2_TP3\bin\Debug\net8.0\Ejercicio2_TP3.exe
+C:\Users\Usuario\Documents\Varios\TP3 - Programacion 3 - UTN\Ejercicio2_TP3\bin\Debug\net8.0\Ejercicio2_TP3.deps.json
+C:\Users\Usuario\Documents\Varios\TP3 - Programacion 3 - UTN\Ejercicio2_TP3\bin\Debug\net8.0\Ejercicio2_TP3.runtimeconfig.json
+C:\Users\Usuario\Documents\Varios\TP3 - Programacion 3 - UTN\Ejercicio2_TP3\bin\Debug\net8.0\Ejercicio2_TP3.dll
+C:\Users\Usuario\Documents\Varios\TP3 - Programacion 3 - UTN\Ejercicio2_TP3\bin\Debug\net8.0\Ejercicio2_TP3.pdb
+C:\Users\Usuario\Documents\Varios\TP3 - Programacion 3 - UTN\Ejercicio2_TP3\obj\Debug\net8.0\Ejercicio2_TP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Varios\TP3 - Programacion 3 - UTN\Ejercicio2_TP3\obj\Debug\net8.0\Ejercicio2_TP3.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Varios\TP3 - Programacion 3 - UTN\Ejercicio2_TP3\obj\Debug\net8.0\Ejercicio2_TP3.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Varios\TP3 - Programacion 3 - UTN\Ejercicio2_TP3\obj\Debug\net8.0\Ejercicio2_TP3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Varios\TP3 - Programacion 3 - UTN\Ejercicio2_TP3\obj\Debug\net8.0\Ejercicio2_TP3.dll
+C:\Users\Usuario\Documents\Varios\TP3 - Programacion 3 - UTN\Ejercicio2_TP3\obj\Debug\net8.0\refint\Ejercicio2_TP3.dll
+C:\Users\Usuario\Documents\Varios\TP3 - Programacion 3 - UTN\Ejercicio2_TP3\obj\Debug\net8.0\Ejercicio2_TP3.pdb
+C:\Users\Usuario\Documents\Varios\TP3 - Programacion 3 - UTN\Ejercicio2_TP3\obj\Debug\net8.0\Ejercicio2_TP3.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Varios\TP3 - Programacion 3 - UTN\Ejercicio2_TP3\obj\Debug\net8.0\ref\Ejercicio2_TP3.dll
